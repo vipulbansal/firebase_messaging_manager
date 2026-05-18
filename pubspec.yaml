@@ -1,9 +1,9 @@
 name: firebase_messaging_manager
 description: "A production-safe Firebase Messaging lifecycle manager for Flutter with duplicate notification prevention, local notification orchestration, and clean callbacks."
-version: 0.0.1
-homepage: https://github.com/your-org/firebase_messaging_manager
-repository: https://github.com/your-org/firebase_messaging_manager
-issue_tracker: https://github.com/your-org/firebase_messaging_manager/issues
+version: 0.0.2
+homepage: https://github.com/vipulbansal/firebase_messaging_manager
+repository: https://github.com/vipulbansal/firebase_messaging_manager
+issue_tracker: https://github.com/vipulbansal/firebase_messaging_manager/issues
 topics:
   - firebase
   - notifications
