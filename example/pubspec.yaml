@@ -1,0 +1,22 @@
+name: firebase_messaging_manager_example
+description: Example app for firebase_messaging_manager.
+publish_to: "none"
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.2.1
+  firebase_messaging: ^16.2.2
+  firebase_messaging_manager:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

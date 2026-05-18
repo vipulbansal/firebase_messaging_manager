@@ -1,0 +1,6 @@
+Firebase Messaging Lifecycle Package Ai Build Spec.pdf
+build/
+*.iml
+.idea/
+.dart_tool/
+.fvm/
